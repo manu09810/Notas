@@ -1,0 +1,94 @@
+45¿Qué tiene un algoritmo?
+Debe tener Nombre, descripción entrada y salidas.
+¿Qué es una función?
+Se trata de un algoritmo, externo a nuestro programa actual donde nosotros le ingresamos algo
+y nos devuelve algo a través de un parametro aunque no es necesario.
+
+La función es una maquina que tiene una entrada que recibe a... y devuelve  b...
+
+¿Cómo se define una función en Python?
+Def name(n):
+	cuad = n * n
+	return cuad
+¿Qué es un parametro y el return?
+-"Una función es una caja que permite la entrada y la salida"
+-"El parametro es la entrada de la caja"
+-"El return es la salida de la caja"
+
+*En conclusión podemos pensar acerca  de los parametros y returns como las entradas
+y salida, un print no es lo mismo que un return puesto que el return es lo que se puede
+evaluar.
+¿Por qué los parametros generan mayor flexiblidad?
+Puesto que permiten cambiar el programa para adaptarlo
+
+¿Que es la invocación del una función?
+Invocar una función, es cuando nosotros hacemos el call de la función, se hace
+a través del nombre, si nosotros no corremos esta, no pasara nada.
+
+¿Qué es el programa pricipal? 
+Parte del programa que no esta compuesta de funciones, se trata del código sin funciones
+
+¿Qué hace la función de import?
+-Permite importar la funciones de la bibloteca de python.
+-Adaptar nuestro programa usando códigos de otas personas.
+*
+¿Cuál  debería ser el orden de nuestro programa?
+-Primero los import
+-Segundo las definiciones
+-Programa principal
+
+### Cadenas/"Strings"
+Conceptos de cadena Python
+No es lo mismo una mayuscula que una minuscula
+¿Qué es el indice?
+El indice se refiere a la posición de una letra en una secuencia.
+Se cuenta la posición desde  0 a el ultimo digito
+¿Qué errores pueden ocurrir con una cadena?
+Si se intenta pedir un valor de indice fuera del rango que tiene la cadena, nos dara un error.
+¿Qué indican los "[]" en python?
+Se trata del indicador de posición de los digitos, se pone luego del valor de la varias
+
+¿Cómo funciona las (a,b) y [a,b] al lado de la varaible o a una string para poder hacer una asignación?.
+Se utiliza El  para indicar un rango que incluya a ese valor mientra que  ( no
+lo incluye, se usa para obtener rangos.
+
+¿Qué casos existen de subcadenas? (Viceversa)
+* s= "Pedro"
+	print [0:5]
+* Se omite el primer n, empieza desde el inicio hasta el ultimo digito.
+p = "abcde"
+print (p[:4])
+* Se omtien ambos numeros, se trata de toda la string
+print (p[0:0])
+
+¿Qué caracteres especiales puedo pedir en python, con simbolos se puede usar?
+- Son simbolos que usa python como comando al escribirse , cuentan como un solo caracter
+individual.
+
+\n > new line
+\t> Tab
+### Comparar cadenas
+¿Cómo comparar cadenas?
+Sus fundamentos se basan en el orden alfabetico de ASCII, basandose en la primera letra de cada
+palabra.
+
+¿Cómo funciona el len?
+Al utilizar en una función, nos dice la cantidad de digitos que tiene una str, sin contar desde 0
+¿Cómo funciona el in?
+Busca el caracter dentro de una string, y responde con true o false si se encuentra dentro de esta. Unicamente
+
+### Metodos string
+¿Qué son?
+Son funciones que estan en la definicion, en este caso en las strings
+¿Qué metodos tenemos para borrar espacios en blanco?
+strip()/lstrip()/rstrip() funciona para eliminar espacios
+¿Cómo se invoca el metodo?
+palabra.strip() > No tiene parametros.
+¿Qué otros metodos existen?
+- startwith
+- upper
+- lower
+- capitalize
+- etc
+
+

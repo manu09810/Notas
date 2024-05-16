@@ -1,0 +1,23 @@
+### IRAT
+Qué sucede si la condición antes de while es falsa?
+El bloque de código no se corre
+¿Qué es una rama?
+Se trata de las conexiones entre los elementos de un diagrama
+¿Por qué si un elif esta mal python no puede correr el programa?
+Porque el analizador del sintaxís primero evalua todo el código, por eso si existe un
+problema.
+
+¿Cómo funciona el while en python?
+Primero se ejecuta la condición si se cumple, se ejecuta el bloque de código
+
+¿Qué es mejor usar elif or if anidado?
+-Elif es más estetíco
+-Permite que se al ser uno verdadero, los otros no se ejecuten.
+
+¿Se puede usar el while sin saber qué la cantidad de iteraciónes?
+ - Si, sin ningun problema
+ 
+###CLASE
+¿Cómo funciona el while?
+Permite loopear  un bloque indentado
+Se basa en booleano

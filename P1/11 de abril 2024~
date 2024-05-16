@@ -1,0 +1,60 @@
+-¿Qué debo leer?
+Se debe leer los solucionarios de los problemas, tienen informacióna adicional y permiten ver. SE puede usar MATERIAL EN EL PARCIAL SUBIDO A LAS PLATAFORMA:
+-¿Qué tipos de estrategias usamos para  resolver problemas?
+Podemos usar banderas, acumladores y contador
+¿Qué son las banderas 
+-Son variables
+- Se necesitan para resolver un problema
+- Permite el paso de flujo de cierto problema
+-Pueden ser de tipo booleano
+*El concepto de bandera se trata de un variable que sirve para permtir el paso del programa bajo otra cierta condición.
+- Paso_A= Verdadero
+
+¿Cómo se usan las banderas?
+Se trata de asignar un valor positivo o negativo(boleano) y luego se pone como condición 
+para que 
+Se puede utilizar  para un mientras donde se pregunte la variable directamente( esto seria verdadero), esto va para el parcial.
+- Se pueden usar cualquiera de las dos mientras se resuelva el problema
+
+
+¿Cómo deben ser los nombres de las variables?
+- Deben ser significativos
+- Deben tener sentido para el lector
+- Debe ser fácil de entender
+¿Qué son los contadores?
+-Variable númerica y usalmente entera
+-aumenta en bucles.
+- contador=contador+1
+¿Puede haber distintos contadores en un programa?
+Si puede existir, si usan varias condiciónes adentro
+
+¿Qué es el "prompt"?
+Se trata del signo ">" de la consola.
+¿Cómo se en qué línea de código esto?
+Cuando me pide una linea especifica, a través de leer se va a encontrar detrás de esa línea, debemos razonar.
+
+¿Qué tipos de mientras pueden aparecer en pseudocódigo?
+Puede aparecer uno donde se puede evitar y otro donde se puede saltear, esto se puede hacer haciendo que el primero no se cumpla, mientras 
+que en el segunda siempre se ejecuta al menos una vez.
+¿Por qué usamos únicamnete usamos para y mientras?
+Porque las otras condiciónes existen o no en ciertos lenguajes
+
+¿Qué es un acumulador?
+- Son variables que permiten sumar valores dentro de un loop
+-Pueden ser de cualquier tipo
+- Los acumuladores deben comenzar en 0 para sumar valores
+- Mientras que para una multiplación debe ser una
+-Ejemplo  A= A+1
+
+¿Cómo se debe resolver un problema?
+se debe analizar primero, meditar acerca de el problema
+- Leer todos los casos posibles de un problema(debemos saber que el programa debe tener todas esas posiblidades)
+- Se debe asumir que el usuario va a introducir el dato correcto a menos que esto este indicado en el problema como tal.
+
+¿Qué estructura vamos usar en la prueba?
+Si, sino, el mientras y el para
+
+¿<Cómo se puede optimzar un problema?
+se puede hacer mirando el código y reduciendo las posiblidades para que únicamente se den los números que queremos o verifcaf lo que queremos
+
+

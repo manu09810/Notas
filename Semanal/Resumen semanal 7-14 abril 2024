@@ -1,0 +1,103 @@
+¡Claro! Aquí están las preguntas intercaladas:
+
+1. ¿Cuáles son las similitudes entre el bucle "mientras" en pseudocódigo y los diagramas de flujo?
+Usamos dos bucles distintos, en los diagramas no le aplicabamos un nombre tan contundente como mientras y no teniamos el para como tal, 
+en el psudocódigo si tenemos estos dos casos, mientras se basa en una condición mientra que para en número de iteraciónes que ya aproximadamente sabemos que van a succeder
+2. ¿Qué se requiere para iniciar un bucle "mientras" en pseudocódigo?
+Se requiere que la condición sea falsa y el mientras va a a parar cuando la condición sea verdad.
+3. ¿Cuál es el propósito de la condición en un bucle "mientras"?
+Se trata de tipo de bucle que tiene la capacidad de abarcar muchos casos mientras la condición no se cumpla, a diferencia de Para, que se utiliza más para una iteración de longitud conocida
+4. ¿Cómo se utiliza la función ESCRIBIR en pseudocódigo y qué permite hacer?
+Escribir se utliza de la siguiente manera, Escribir "x" es mejor no usar parentesis pues se puede bugear al tratar de escribir una "
+lista de expresiones"
+¿Qué es una lista de expresiones?
+Una lista de expresiones es una manera de escribir en la cuál el objetivo es escribir varias cosas en único renglon, su estructura se trata de d
+Escribir "a","b","c" lo que se traduciria en la consola como "abc".
+5. ¿Cuáles son los elementos que debe tener un algoritmo según lo explicado en clase?
+Un algoritmo  debe tener nombre, descripción, entradas, salidas y un objetivo
+6. ¿Cuál es la recomendación para programar de manera efectiva?
+Para aprender a programar de la manera correcta no debemos intentar cosas al estilo loco, es mucho mejor dedicar tiempo profundamente a comprender el sistema y su funcionamiento.
+7. ¿Qué significa que algo sea booleano en el contexto del pseudocódigo?
+Se refiere a que únicamente puede 0 o 1, postivo o negativo
+8. ¿Por qué es importante mantener la condición en un bucle "mientras" para que funcione correctamente?
+Porque cuando esta condición sea falsa el bucle se rompera
+9. ¿Por qué asignar el valor "verdadero" a una variable y utilizarla como condición en un bucle "mientras" puede causar un bucle 
+infinito?
+Por lo siguiente
+	Si nosotros denominamos
+	x= true
+	Mientras x
+	ese bucle sera infinito puesto que x esta actuando de flag o bandera en español. Se Asigna el valor de true y por lo tanto
+	el mientras lo toma como el valor booleano que es.
+10. ¿Cuál es el efecto de usar el operador "not" antes de la condición en un bucle "mientras"?
+ Si hicieramos lo mismo que en el caso anterior
+ x = true
+ Mientras not x
+ Quiere decir que x debe ser falsa para que bucle se mantenga, puesto que se esta diciendo que no sea verdadero.
+11. ¿Qué se espera que los estudiantes entreguen en el parcial de programación?
+Se espera que se compriman archivos de tipo zip en los ejercicos, que los resolvamos de manera correcta y que posteriormente los entregemos 
+12. ¿Cuál es la función del bucle "para" en pseudocódigo y qué aspectos se deben tener en cuenta al utilizarlo?
+El Bucle PARA se utiliza cuando se necesita una iteración para un número de veces n ya pre concebidas.
+13. ¿Cuál es la diferencia principal entre un bucle "para" y un bucle "mientras" en pseudocódigo?
+La diferencia radica en la capacidad de parar el bucle mientras mientras que el for sigue de largo, además a esto se añade que ambos cumplen diferentes funciónes.
+14. ¿Qué se recomienda hacer respecto a los ejercicios asignados en clase?
+Se deben resolver todo y practicar cada tipo de resolución de problema posible.
+15. ¿Qué criterios se utilizarán para evaluar los parciales de programación P1 según lo mencionado en la clase?
+Se evaluara la destreza a la hora de resolver problemas, se haran diagramas y  tambíen se trabajara con código, por eso mismo es importante dominar ambos, además tambíen se encuentra incluida la lógica de las preposiciónes lógicas.
+
+
+Aquí tienes una serie de preguntas basadas en el material proporcionado:
+
+1. ¿Qué recursos se recomienda leer para resolver problemas de programación
+Para resolver problemas de programación es recomendable hacer un active recall de todos los problemas posibles que  hemos dado, comprender cada uno de ellos y hacer diagramas y problemas de lógica además de revisar las resoluciones de problemas y compararlos con los mios
+2. ¿Qué estrategias podemos emplear para resolver problemas en programación según lo discutido en clase?
+Se pueden utilizar las banderas, los acumuladores y los contadores.
+3. ¿Qué son las banderas en programación y cuál es su propósito?
+Las banderas permiten el flujo adentro de una condición de un programa, si  bandera= true y loop(bandera=true) entonces ese el concpeto fundamental de la bandera.
+4. ¿Cómo se utilizan las banderas en la resolución de problemas?
+Sirven para que se den únicamente ciertos caminos dentro de la programación de un código.
+5. ¿Cuáles son los criterios para nombrar variables de manera adecuada?
+Tienen que un nombre realmente significativo, facil de entender y sencillo para el lector
+6. ¿Qué función cumplen los contadores en programación?
+Los contadores son usados en los bucles mientras y para, se añade el valor de más uno en cada iteración, esta
+es su gran utilidad, pues permiten la capaci
+7. ¿Es posible tener múltiples contadores en un programa y por qué?
+Si, este caso da muchas veces, especialmente cuando se trata de un programa complejo pues se da 
+8. ¿Qué representa el "prompt" en la consola y qué indica respecto a la línea de código?
+
+9. ¿Qué tipos de bucles "mientras" pueden aparecer en pseudocódigo según lo explicado en clase?
+10. ¿Por qué se prefieren los bucles "para" y "mientras" sobre otras estructuras de control en pseudocódigo?
+11. ¿Qué son los acumuladores y qué operaciones suelen realizarse con ellos?
+12. ¿Cuál es la metodología recomendada para abordar la resolución de problemas en programación?
+13. ¿Qué estructuras de control se utilizarán en la próxima prueba según lo discutido en clase?
+14. ¿Cómo se puede optimizar la resolución de problemas en programación?
+
+Aquí tienes una serie de preguntas basadas en el material proporcionado:
+
+1. ¿Cuáles son las dos sociedades principales según la teoría de Chul-Han y cuáles son sus características principales?
+2. ¿Qué frase representa la sociedad disciplinaria según Chul-Han y cuál es su implicación?
+3. ¿Qué diferencia fundamental establece Hegel en su teoría entre el amo y el esclavo?
+4. ¿Por qué el dueño no es esclavo del esclavo, según la metáfora presentada en la clase?
+5. ¿Cuál es la frase característica de la sociedad de la productividad según Chul-Han y qué implica?
+6. ¿Cómo se basa la vida en la sociedad de la productividad según la perspectiva de Chul-Han?
+7. ¿Qué valores son apreciados en la sociedad de la productividad?
+8. ¿Qué significa la "reactualización de la dialéctica del Ano-tje" según la explicación de Chul-Han?
+9. ¿Cuál es la diferencia entre el éxito y la excelencia según la interpretación de Chul-Han?
+10. ¿Por qué se afirma que en esta sociedad nunca se dice "no", sino siempre "tú puedes"?
+11. ¿Por qué la positividad puede ser considerada violenta según Chul-Han?
+12. ¿Qué se entiende por "atomización del tiempo" según la teoría de Chul-Han?
+13. ¿Cuáles son las consecuencias de la atomización del tiempo según Chul-Han?
+14. ¿Cómo podríamos reflexionar sobre la relación entre la sociedad contemporánea y los conceptos presentados por Chul-Han?
+
+¡Claro! Aquí están las lecciones formuladas como preguntas:
+
+1. ¿Qué lección aprendiste sobre la importancia de revisar el material antes de una presentación?
+2. ¿Cuál es la importancia de mantener el orden y la apariencia profesional durante una presentación?
+3. ¿Cómo afecta el manejo del tiempo en una presentación y qué puedes hacer para practicar su gestión?
+4. ¿Qué consideraciones debes tener en cuenta al evaluar la cantidad de material presentado en una presentación?
+5. ¿Cómo puede afectar el ritmo de habla del grupo en la efectividad de una presentación?
+6. ¿Por qué es importante adaptarse a las circunstancias del equipo durante una presentación?
+7. ¿Qué consecuencias pueden surgir al utilizar un lenguaje técnico incorrecto durante una presentación?
+8. ¿Por qué es recomendable incluir un QR al final de una presentación y qué tipo de información debería contener?
+9. ¿Cómo puedes mejorar tus habilidades para cerrar una presentación de manera efectiva?
+10. ¿Por qué es importante ser consciente de las necesidades de tiempo de cada miembro del equipo durante una presentación en grupo?

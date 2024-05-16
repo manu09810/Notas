@@ -1,0 +1,165 @@
+Física.
+35.3
+-¿Qué es la aproximación de un rayo, explica su comportamiento?
+.Mantiene sentido durante el  choque contra un medio uniforme y no lo hace contra un medio no uniforme
+-Se mantienen perpendiculares hacia a los frentes de onda(se refieren a que son uniformes en conjunto)
+*La aproximación de un rayo se trata de un modelo basado en la simplifación de un haz de luz, para esto nos 
+basamos en sus propiedades, por eso podemos concluir que el modelo se basa en que los haces se van a mantener
+en el mismo sentido y perpendiculares al frente de onda, cuando impacten contra un medio no uniforme o con propiedades
+diferentes cambiara de direeción.
+
+35.4
+-¿Qué succede cuando analizamos la onda bajo reflexión, qué casos se dan?
+-Caso 1: La longitud de onda es muy inferior a el diametro de la abertura, aqui podemos observar el caso donde
+los rayos en siguen en línea recta, esto es valido con la aproximación de un rayo y usa en el cápitulo 36, además
+esto tambíen sirve en un un objeto opaco, dando como resultado una sombra nítida.
+-Caso 2: En el caso dos se la que los valores del diametro y la longitud de onda soy muy cercanos unos y otros y por lo tanto
+los rayos se extienden luego de pasar por la abertura.
+.Caso 3: La longitud de onda es superior a el diametro de de la abertura, en este caso la fuente luz actúa de manera
+puntal, así enviando haces de luz en todas las direeciónes.
+*  Cuando analizamos este modelo, succede que  existen tres casos posibles cuando la onda entra por un hueco de 
+cierto diametro, que la longitud de onda diametro dando como resultado que los rayos pasen rectamenente, esto es compatible
+con la aproximación del rayo y además funciona con los espejos. Los otros dos casos son cuando los valores de la
+longitud de onda y diametro son similares, provocando un leve desplazamiento de los rayos en todas las direcciones.
+Mientras que en el ultimo caso longitud de onda >> diametro esto se intesifica más y los rayos terminan funcionando
+como funente puntal y por enviandose  por todos lados.
+
+-¿Qué tipos de reflexiones existen?
+*Existen dos tipos de reflexión, la especular y la difussa, estas dos depenende de únicamente de la superficie donde impacten,
+cuando se da la especular se puede aplicar la ley de la relflexión, esto es en superfices lisas o pulidas mientras que la
+difusa se da en el caso de una superficie rugosa.
+-¿Cómo es el comportamiento de la relfexión especular?
+*En la reflexion especular se da que ángulo entre el rayo incidente y el rayo reflejado son iguales en referencia a
+la normal y por lo tanto esto permite la utilización de la ley de lar reflexion
+-¿Qué es la  ley de reflexión?
+*La ley de la relfexión se basa en que cuando se da únicamente cuando un rayo incide una superficie y esta es lisa o
+muy plana, se da que el ángulo del primer rayo con el ángulo del rayo reflejado respecto a la normal es el mmismo.
+¿Qué  es el fenomeno de la rereflexión?
+*Este se da cuando un haz de luz impacta en dos superfices que estan a 90 grados entre si, haciendo que el haz vuelve 
+paraleleamente de donnde venia, nosotros logramos esto mismo con nuestro pentaespejo, esto perrmite modifcar la direcciones de
+un rayo creando sisteams de imágenes más complicados, es amplimente utilizado en cables ópticos.
+
+-¿Cómo funcionan las ondas bajo reflexión?
+Funcionan de la misma manera que los rayos cuando impactan contra una superficie plana, se puede aplicar
+la ley de reflexión.
+
+36.1
+
+-¿Que componentes tiene el modelo de un espejo plano y cómo funcionan?
+. En los espejos planos las imagenes son detras del espejo(virtual)
+* Los espejos plano tienen los siguientes componentes, primero debemos tener en cuenta que siempre se 
+asume la existencai de un objeto delante, luego se denomina "P" a la distancai del objeto al espejo, "O" al objeto
+y posteriormente "Q" a la distancia de la imágen a el espejo y "I" a la imagen. Mientras que h es la altura de objeto y h´
+la altura de la imágen. Es tambíen importante resaltar que en este tipo de espejos los rayos incididos y rayos reflejados tienen
+el mismo ángulo respecto a la normal.
+-¿Cómo se forma una imagen en cualquier espejo?
+*En los espejos las imagenes se forman a partir de un objeto, mejor dicho de los rayos emitidos por este o de sus 
+prolongaciones cuando los rayos no se interceptan.
+
+¿Qué tipos de imagenes existen y plantea un ejemplo en al vida real?
+- Exsisten dos tipos de imágene, unas se reflejan detras del espejo, un ejemplo de esto es cuando en un día lluvioso
+las gotas se posicionan en tu ventana y tu logras ver la misma gota detras del espejo, esto es llamado imágen vitual
+su principio básico es que estan detras del espejo, 	
+mientaas que la imagen real se manifiesta del mismo lado donnde impactan los rayos de luz, por eso se dice que es real,
+si la intentemos tocar no la sentiremos
+-¿Qué es un espejo plano, explica su comportamiento?
+Un espejo plano es una superficie pulidad en la se forman imágenes de un objeto, estas son únicamenter virtual
+pues se forman detras del espejo.
+-¿Cómo se forman las imagenes en los espejos?
+* Se tratan de prolongaciones de los rayos si es  virtual o se tratan del verdadera intersección de los rayos si 
+succede enfrente.
+-¿Qué es el aumento lateral?, explicalo.
+El Aumento lateral se basa en la razón matemática existente entre la altura de la imagen y el objeto
+ siendo M=(h´/h)
+
+36.4
+¿Qué es un lente?
+Un lente se trata de objeto que tiene dos superficies, esta aprovecha las propidadesde la refracción,  de esta manera la lente
+es capaz de modificar las refracciones de los rayos que pasan a través de esta.
+¿Qué componentes tiene los lentes gruesas?
+Existen variados componentes en una lente por lo que es importante darse cuenta de cada uno de ellos y entenderlos
+correctamente, primero que nada tenemos el objeto y la imagen, tambien  enel caso de ser una lente gruesa tenemos un
+centro de curvatura, tenemos t que es el grsoor de la lente, p1 que es la distancia de la cara de enfrente a un objeto al objeto,
+tenemos p2 que es la distancia enfrente a la imagen a la imagen y  q1 que es la distnacia de la otra cara donde no sale la imagen a la imagen.
+tambien que es importaante tenemos R1 y R2, que son las superfices y n que es el ambiente.
+¿Qué es un centro de curvatura?
+Se tratan de los puntos de cambios de las imagenes en las lentes, sirven de referencia para comprender los cambio de la immagen
+¿Cúando Q es positiva?
+Q  es positva cuando en los lentes cuando la imagen es real, esto quiere decir lso reayos realmente  se cortan y no
+sus prolongaciones, aquí , cuando es virtual se trata de una -Q. Cabe aclarar que es la distancia desde el espejo hasta
+imagen.
+¿Cómo se desarolla las formulas de los lentes?
+Se trata de ir jugando con los limites y valor como reduicr el grosor y ir desarollando hasta tener [[FORMUILA de ecuacion]]
+¿Qué es la distancia focal?
+La distancia focal se trata de F el valor que se le otorga   a la distnacia desde cualquier de los dos puntos focales
+hasta el centro de la lente, su distancia es igual.
+¿Qué es una lente convergente?
+Un lente convergente tiene propiedad de refractar todos los rayos de tal manera que se junten en un solo punto, son
+ de gran utilidad las lupas son de este tipo.
+¿Qué es una lente divergente?
+Se trata de una lente que cuenta con la capacidad de separar los rayos que refractan en contra de ella.
+¿Cómo se dibujan los rayos en los lentes convergentes?
+En los lentes convergentes se trazan 3 rayos, el primero parelelo al eje, se refracta y va pasa por el foco
+el segundo se dibuja a través el foco que se encuentra en frente al objeto(p<f)(OJO PUEDE ESTAR DEL OTRO LADO), para luego
+pasar por el lente
+Y el tercero se dibujo en linea recto y pasa por el centro de la lente.
+Estos tres se deven terminar uniendo creando la imagen o de donde se prolongara esta.
+
+¿Cómo se dibujan los rayos en los lentes divergentes?
+En las lentes divergentes se trazan tres tipos rayos
+El primero sale parelelo del objeto y luego impacta de en el lente para salir despedido hacia afuera en relación al foco
+El segundo se dibuja  en dirreción al foco del otro lado de la lente pero cuando choca la lente sale en paraleleamente al eje.
+El tercerose dibuja  por el centro de la lente y sigue en línea recta despues de chocar.
+¿Cúal es la ecuacion de  los fabricantes de lentes?
+Se trae una coreelación donde el inverso de  la distancia focal equivale a la resistencia del ambiente menos uno ,multiplicado
+por el inverso de la superficie 1 t el opuesto e inverso de  la superfice 2.
+¿Cúal es la ecuación de lentes delgadas?
+Esta formula expresa lo siguiente, dice que la inversa de la distancia de la imagen(q) y la  inversa de la 
+distancia del objeto al lente sumadas es igual al inverso de la distancia focal.
+¿Cómo funcionan las conveciones de lentes delgados?
+Explica el aumento de las imágenes.
+El aumento de las imagenes se calcula a traves  -(q/p) o sea distancia imagen dividido distancia objeto  por -1
+esto se llama M y si es positva la imagen es viertical y en el mismo lado mientras que si no lo es se trata de una imagem
+invertida de en el lado opuesto al objeto. 
+¿Qué diferencia existen el comportamiento de una lente divergente y una convergente?
+Explica detalladamente el fenomoneo de combinación de lentes delgadas.
+Se trata de que se multiplica la m individual de cada una, siendo esto el aumento lateral o sea, el opuesto 
+(la dívision de la distancia de la imagen  sobre la distancia del objeto
+¿Qué formulas se utilizan para lentes delgadas?
+Para lentes delgadas se utilizan la fórmuia de lente de aumento de imagénes, la de fabircante de lentes y la de lentes delgados.
+
+36.6
+¿Qué es un a cámara, cómo funciona una?
+Se trata de un dipostivo que óptico que esta conformado por una cámara hermetica a la luz y una lente convergente,
+esta produce una imagen real  y tiene un aparato sobre el cual se produce esta imagen.
+¿Donde forma la imagen de una cámara y cómo se extrae?
+La imagen de la cámara se forma en el CCD, este dispositivo digatliza la imagen, antes no existia.
+¿Qué componentes tiene en su modelo?
+Tiene una lente, un obrutador, ccd y una imagen.
+¿Qué es  obturador y cuál es su relación con el tiempo de exposición?
+Se trata de un dipositvo mecanico que tiene la capacidad de abrirse durante intrervalpos de tiempos defindos, esto
+brinda diferentes ventajas para mejorar la calidad de las fotos y su calidad. este tiempo se llama tiempo de exposición
+quee se expŕesa en 1/30s , 1/60s, 1/125s y 1/250 s 
+¿Qué es el número F de una lente y cómo se mide?
+El número f se trata de la divison  entre la distancai focal del lente dividido el diametro
+¿Qué proporcionalidad sigue?
+Se dice que la intensidad es proporcinal al al inverso al cuadrado de la division de la distancia focal sobre 
+el diametro. Y que esto es proporcional a el inverso del número f al cuadrado.
+¿Qué se intenta medir con el número f?
+el número  f usualmente se intenta usar en las cámaras para medir la rápidez de n lente, menor numero fmás abrtura y 
+más intensidad de énergia. Esto se escribe como f/2, esto quiere decir un número f de valor 2. 
+Además mayor número F equivale una gran profundidare de campo y por lo tanto no es necesario enfocar la cámara.
+
+
+36.8
+¿Qué es una Lupa?
+Se trata de un objeto compuesto por una lente convergente, con la funcionalidad de ver objetos como si fueran de mayor tamaño
+Explica el asunto del ángulo theta en la distancia
+Lo que hace una lupa es ampliar más el ángulo aparente, a traves de una lente convergente esto aumenta el ángulo, 
+de esta manera se logra ver una imagen virtual detras del objeto, con ella podemos suplantar la falta 
+de algo que nos permita ver más grande.
+Se denomina m a la relación ángulo final sobre ángulo inicial.
+Explica detalladamente como funcionan sus formulas y ecuaciónes.
+Lo realmentte importante se 
+que la amplifacion máxima que puede alcanzar una lupa es 1+(25cm/distancia focal) y que
+la mínima es igual a la divison entre ángulo inicial y final y tambíen es igual a 25m/distancia focal

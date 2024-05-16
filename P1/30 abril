@@ -1,0 +1,67 @@
+¿Cómo se puede realizar el ejercicio 3 ?
+- S  se realizan las operaciones haciendo los modulos de las divisiones, luego
+se convierten en cadenas(string) para luego concatenear todos los numeros en binario.
+del numero que se quiere,  se canbua el orden de la suma de cadenas, para realizar
+concatenear.
+
+¿Qué estructuras de decision conocemos ?
+La manera sin omision, es decir donde existe en bloque que decide entre 2 opciones
+de único recorrdi
+Y la manera con omision donde se salta una parte de código si se da la condición
+
+¿Cómo se traducen  primera a python?
+Se escribe if(condición): 
+...
+ else: ( los 2 puntos marcan que sigue un bloque de código luego)
+y por lo tanto sigue indentando
+
+¿Qué es pip8?
+Se trata de una documentación de como utilizar python.
+¿Cómo escribir python correctamente (pip8)?
+La indentación debe tener cuatro espacios,  debemos tener cuidado con la indentación,
+tener mucho cuidado con la indentación. 
+Leemos más códigos  del que escribimos
+ se nombran todos los variables en minuscalas
+ Si una variable tiene varias palabras, se ponen guión entre medio-
+
+¿Cómo se lee una variable en python?
+a = input("mensaje") 
+print(a?
+
+¿Cómo se pueden poner las variables en general( En PYTHON ES PIP8), esto es fuera de python?
+
+Camelcase > Se escriben  las variables con mayuscula y todas las palabras unidas
+AreaTriangulo
+
+¿Qué devuelve input?
+Input siempre devuelve una cadena.
+¿Qué hace la coma en python cuando se utiliza dentro del print con str?
+Realiza los espacios de manera automatizada
+¿Cómo te puedes fijar en la propiedades de una función en pycharm?
+Si te mantienes sobre ella con el mouse, hicimos esto con print y aparecio
+/n.
+¿Qué es /n?
+/n se trata de "new line" y simboliza un "enter".
+
+¿Qué tipos de datos de existen en Python?
+Existen String, Int, Float y Boleano.
+
+¿Cómo se convierten de un tipo a otro?
+Se utiliza int(), str(),float().
+¿Qué succede si intentamos convertir  una str con letras a int?
+el programa explota.
+
+¿Cómo debemos intentar dejar los variables?
+Si una variable de entrada a es str, es mejor crear otra variable b que sea 
+int de a por ejemplo, esto permite que en un programa grande no se crean problemas.
+¿Por qué print ()?
+Genera una nueva linea, puesto que end="/n", lo que 
+
+¿Qué es el if elif ,elif?
+Se trata de otro formato para resolver el problema de imc de python, esto es
+if():
+elif():
+elif():
+else:
+¿Qué es el debug a mano?
+Se utilza input, se utiliza print para entender el valor de variable.

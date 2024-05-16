@@ -1,0 +1,54 @@
+23 de Abril programación
+¿Cómo se transforma  un numero hexadecimal a  sistema decimal?
+- Se escribe por ejemplo Bc12
+- 11*16^3 + 12*16^2+1*16^1+2x16^0
+Como se pasa un numero del sistema hexadecimal a  binario
+ABCD
+1001... se escribe cada uno
+Que es el MSB y e LSB en en un sistema binario
+el de mas la izquierda es el most signifcative bit
+y el de mas derecha es el least.
+Como convierte de decimal a otra base
+se divide el numero entre la base y se van guardando los restos hasta que el cociente sea 0.
+
+¿Como se debe negar algo en las preposiciones lógicas?
+Se debe tener cuidado a la hora de negar puesto que la letra debe negar ambos a la vez y no por separado para 
+para poder factorizar ~.
+ ¿Cómo crear rápidamente la tabla de preposiciones lógicas, a la hora de analizar una oración?
+ Para poder crear rapidamente la tabla se debe utilizar la variable, y se empieza 2^0 hasta llegar al utlimo digito  siendo2^p el ultimo,
+ empezar siendo verdadero y esto va indicar el cambio cada casilla.
+ De esa manera logramos crear las tablas de manera automatizada, se replica el comportamiento de el peso de los numeros.
+ ¿Cómo se debe encarar un examen?
+ Primero se deben hacer los problemas más sencillos para luego hacerlos más dificiles, se utilizan los ultimos 10 minutos para corregir errores posibles
+ en el test.
+
+¿Qué no nos damos cuenta cuando trabajamos con un sistema numerico de los valores de los números?
+Los valores más la izquierda obtiene más valor.
+¿Cómo se escriben los numeros decimales, cuando se realiza el peso?
+- Cuando se utilizan para crear decimales, los exponentes se vuelven negativos
+
+¿Cómo podemos generalizar una suma de pesos de un número en un sistema decimal?
+Podriamos descomponerlo como una sumatoria que va desde 0 hasta la cantidad de p-1, en cada iteración se sumaria el D_i * 10^i
+siendo p el valor que queremos alcanzar, digito de la posicion i.
+
+Si  EXPLICAR  Diapositiva 5 > https://webasignatura.ucu.edu.uy/pluginfile.php/462587/mod_resource/content/3/binario_v2.pdf
+En esta diapositiva podemos ver como se trasnforma un número decimal a binario, se hace
+a través de divisionnes, vemos que en este caso D_0 es el ultimo resto y por lo tanto
+la primera cifra del número.
+
+
+El digito pertenece explicar diapositiva 7 y 8
+no lo entiendo
+
+Podemos expresar cualquier numero a traves del binario, Di= 0,1 10
+
+Cómo podemos expresar un número decimal en binario?
+Debemos expresar primeramente el numero más cercano, restarlo y ir buscando los numeros más cercanos y finalmente ponerlos los que faltan como
+1
+¿Cómo podemos obtener un numero decimal en binario?
+Ir realizando divisiones, considerando sus valores, su restos y sus cocientes
+
+¿Cómo convertir un decimal con coma a binario?
+Esto es para lo que quede despues de la coma
+Hay que ir multiplicando ambos lados hasta de la operación  por 2 y cuando obtengamos un numero mayor que uno 1, ponemos 1
+si no ponemos 0.

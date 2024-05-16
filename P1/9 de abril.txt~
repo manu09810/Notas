@@ -1,0 +1,63 @@
+P1
+Hoy en clase programación vamos a trabajar las  estructuras para el pseudocódigo, uno va a ser similar a  cuando trabajamos en diagramas.
+Mientras es similar, se trata de un bucle que mientras la condición sea verdadera esta se va a continuar repitiendo hasta que la condición sea falsa, en ese momento, se termina y se avanza en el código despues del bucle verticalmente.
+¿Cómo funciona un mientras simple típico?
+Se define una variable antes de un mientras
+Esto succede porque es seguro que entre, te aseguras esa mínima iteración. 
+Luego se pone una condición de que rompe el bucle y se utiliza cada
+iteración para cambiar un valor.
+¿Qué utilizamos hoy para comprobar si el pseudocódigo esta bien?
+Podemos utlizar la prueba de escritorio
+
+¿Cómo se utiliza escribir en pseudocódigo?
+Ejemplo se utliza ESCRBBIR("A",variable_A), esto permita que se sumen
+puesto que es una propiedad antes mencionada de la convenciones en psi.
+
+-¿Qué debe tener un algoritmo?
+un algoritmo se trata de una serie de pasos para resolver un  problema,
+debe tener una cantidad de pasos dentro finito, que no sea ambiguo, y demás.
+Debe tener:
+Nombre:
+Descripción:
+Entradas:
+Salidas:
+Objetivo:
+
+¿Cómo se debe programar?
+Se debe programar de manera sistematica, entendiendo el funcionamiento
+de cada parte del programa, no a base de pruea y error.
+
+¿Qué significa booleano(PARCIAL)?
+Solamente existen como si o no, cero o uno.
+¿Qué lo que esta al lado del mientras, la condición?
+Se trata de una expresion lógica lo que signfica  que e
+
+¿Por qué si borramos la condición de la variable de al lado de un mientras el mientras no funciona(PARCIAL)?
+Esto se debe a que necesitamos que la expresión sea verdadera para que corra el mientras, por lo tanto  si el valor...................
+¿Por qué si asignamos el valor de verdadero a una variable y creamos un mientras que dependa únicamente de esta creara un bucle infinito?
+Esto se debe a que se asigna la verdad a  esa variable y por lo tanto podemos pensar que al ejecutar el mientras se detecta que es verdadero automaticamente.
+
+ ¿Por qué si ponemos un not  la condición de la variable de al lado de un mientras el mientras no funciona?
+ Por que si not se utiliza con una variable que tenga asignado un valor de tipo  boleano este dara su opuesto
+ Ejemplo  si a=False por lo tanto not a = true.
+ 
+¿Qué podemos dar en el parcial?
+unicamente lo que damos en el curso.
+
+¿Cómo funciona el para?
+- aumenta el valor de una variable x valor
+- se asigna un área para iterar
+- se asinga un valor inicial y final.
+- SE escribe "PARA i=1 HASTA 100"
+- si no se especifica el paso el paso es uno
+ Para se trata de un tipo de bucle, se utiliza mucho con
+ -Conclusión.
+ 
+ ¿Cuál es la difrencia entre "PARA" y "MIENTRAS"?
+ - La diferencia mayoritaria se basa en que el para se plantea cuando uno ya sabe cuantas iteracciones se va a hacer.
+ - En el Mientras se puede salir del bucle a través de una condición falsa, en el para esto no es así.
+ 
+¿Qué ejercicio debemos realizar?
+Debemos hacer todos los ejercicios posibles, lo importante entender los conceptos.
+¿Qué van a evaluar en los parciales de p1?
+Van a evaluar si soluciones el problema, pero tambíen como lo solucionaste, si lo hiciste de manera optima y eficiente o no, todo es importante para esta evaluación, nombre de variables ,etc.

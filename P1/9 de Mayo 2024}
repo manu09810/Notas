@@ -1,0 +1,60 @@
+#¿ Qué succede si comparamos dos string con el signo "> o <"
+ Si en la primera letra de una comparación de un  string, se basa en la comparación
+ de ascii, apenas detecte que  un valor sea mayor o menor a través de los valores de 
+ ascii, nos va a retorno FALSO o TRUE.
+ 
+ ¿En python cómo hacemos algo similar a el "for"?
+ - Usamos Range, nos permite crear una secuencia de numeros
+ 
+ - Si queremos crear una secuencia  de hasta n numero debemos hacer lo siguiente
+for i in range(n)
+
+- Se define implicitamente el valor de i y se sobreescribe en cada iteración el valor
+de i por el de la secuencia.
+
+-  Si usaramos una cadena "abc", i seria i=a, i=b y luego i=c.  De esta manera
+iria cambiando cada vez
+
+- For recorre la secuencia, uno a uno hasta finalizar, tomando su valor.
+
+- Nunca debemos cambiar la variable descrita en el for (i), por otro valor,
+esto ocasionara errores inesperados.
+
+¿ Para qué sirve for?
+- Se utiliza para aplicarse cuando se necesita realizar una cantidad de iteraciónes
+de un programa del cual ya se conocen las repeticiones que se requiere.
+
+
+¿Cómo se generan las secuencias de range y sus distintas variable?
+range(n)= 0,1...n-1
+range(i,n) = i , i+1..... n-1
+range(i,n,m)= i, i+m...n-1
+ - Este tipo de casos 
+¿Qué son las listas?
+- Se tratan de conjuntos de elementos, por ahora únicamente numericos}
+- [1, 2, 3, 4, 5]
+
+### F- Strings
+¿Qué es un f string ?
+Se trata de una manera de darle a los formatos de manera  especifica con
+mayor facilidad.
+-Se utiliza  para mejorar la estetica del programa
+
+
+¿Cómo se aplica?
+Se  aplica antes del texto f"..."(prefijo) y luego dentro del {variable}, estos son los
+marcadores
+
+-  Ejemplo numero_flotante:10.2F
+-El numero despues significa la cantidad de espacios
+-Mientras que "d" es entero
+-Mientras que f permite poner decimales, se debe poner con punto  y tambíen redondea 
+¿Si se ponen espacio reaccionan diferente?
+- Las cadenas se alinean a la izquierda
+- Mientras los numeros se alinean  a la derecha
+
+¿Cómo se  cambia el orden del relleno?
+- Se utiliza < para cambiar el sentido
+- Se utiliza > para cambiar el sentido.
+¿Cuándo se usan las comillas dobles o comillas simples?
+Se deben tener cuidado pero depende lo que se necesita
