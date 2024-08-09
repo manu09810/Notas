@@ -1,0 +1,41 @@
+Impresora 3d
+¿Cómo funcionan las impresoras?
+La impresora que tenemos, funciona de manera simple, con una fibra homogena,
+se va fundiendo de manera, que se vaya creando capa sobre capas, las disposiciones de materiales
+
+¿Qué tipos de impresoras existen?
+Cartesianas, se basan en los tres ejes, x, y y z. (las que estan en la facultad)
+Resina Tiene una cama, un plastico derretido a temperatura ambiente, usando UV se va proyectando y derrite la resina,
+
+¿Qué ventajas y desventajas presentan las tecnologias de posción del motor?
+Con motor móvil permite
+Sin motor movil no es necesario ser cuidadoso con el mo
+
+¿Qué puntos importantes tienen los materiales?
+Si los motores son super rapidos, la inercia más reduce la calidad, además demora mucho
+
+¿Porqué no se utiliza la impresora 3d para todo?
+Porque demora mucho, se necesita mucho tiempo para producir una pieza.
+
+¿Donde se pueden conseguir planos ya hechos?
+ https://www.thingiverse.com/
+ 
+ ¿Cómo se funden los materiales?
+ Son  diferentes, es decir el ABS que es un plastico industrial, ser más rigido, más díficl, mientras que el pbs es más facil.
+ Aca usamos el PLA (I SUN)
+ 
+ 
+ ¿Qué software se pueden usarvy para qué?
+ Permite usar precargar el modelo de la impresora,  tambíen se debe cargar el material.
+ 
+ ¿Cómo se establece la impresora el inicio?
+ esta tiene un hogar, es decir un punto de inicio, esto se hace para que tenga el área.
+ 
+ ¿Qué parametros son importantes?
+ - Grosor de pared ( tiene que ser multiplo entre el diametro de la impresion)
+ - Espesor
+ - Velocidad de impresion ( mayor menor calidad)
+ - Relleno interno (Logo cuadrado arriba)
+ 
+ ¿Qué herramientas existen?
+ Soportes, permiten hacer el soporte

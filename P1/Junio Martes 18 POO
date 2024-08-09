@@ -1,0 +1,49 @@
+Martes julio 18
+¿Qué va para el parcial?
+- Archivo ni programación orientadas  a objeto no va para el parcial
+- El ultimo Martes va ser el cierre de la clase.
+El Martes 2 probablemente tenemos las notas.
+El criterio para para pasar a remediación:
+Se necesita mínimo nota más de Bueno en un un parcial.
+
+¿Qué estructuras de programación existen?
+En la estructura main, se distribuye con las funciones en la parte superior, con los llamados abajos,
+esto se llama programación estructrucurada.
+Existen distintas para cada forma de organizar la programación, red neuronales, Ia, objetos.
+
+¿Qué es la progrmación orientada objetos?
+Se basa en la características de objetos de una realidad, aunque
+
+¿Qué es una  instancia de un objeto?
+Se cada objeto que existe por separado, a pesar de ser unas  sillas similares a otros pero no idénticos, vienen todos de una clase
+
+¿Qué es una clase?
+Es una plantilla que define las caracteristicas tiene un objeto (respaldo, color ,etc) y tambíen los metodos(funciones) en la silla (sentarse)
+
+¿Cómo se utiliza un objeto?
+Primero se crea un clase, despues creamos el objeto, que es una instancia del objeto, podemos aplicar los metodos y atributos de un objeto.
+
+¿Qué metodos se suponen que tienen cada clase?
+Son las acciones que contiene cada objeto, este puede tener un atributo o estado.
+
+¿Qué es el estado y el comportamiento del estado?
+El estado se basa en el conjunto de atributos
+Mientras que el comportamiento se basa en el conjunto de metodos que tiene un objeto.
+
+¿Qué es un objeto constructor?
+Permite la creación del objeto, toma los artibuos como paramatro, que recibe los atributos del objeto, que permite crear la instancia del objeto.
+
+¿Cómo se crea una crea una clase en Python?
+Se utliza mayuscula para los nombres de las clases, para objetos minusuclas.
+se utiliza la class: nombre de la clase, luego se define __init__(self,valorx…):
+dentro de la definición, cuando se utilza el self.valory = valorx, de esta manera se asigna el valor dentro del paramatro a la
+la objeto dentro, esto permite almacener los valores del constructor dentro del  objeto
+
+¿Para qué seirve el __str__?
+pertite que  al devolver una str. ing, si este metodo no es utilizado se va a devolver la posición del objeto en la memoria.
+
+¿Por qué se pone self dentro de cada metodo?
+Esto permite referirse al mismo objeto cuando este creado.
+
+¿Por qué en python son importantes los objetos?
+Porque en python todo son objetos.

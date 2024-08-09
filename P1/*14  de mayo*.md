@@ -51,8 +51,6 @@
 ##### ¿Cómo se recorre una cadena con for?
 
 - **For** permite recorrer una secuencia de valores , de esta manera permite recorrer esos valores
-  
-  
 
 ###### ¿Qué hace range?
 
@@ -107,7 +105,6 @@ for letra in cadena:
 ```python
 cadena = "Federico"
 cadena[1] = "2" # MAL
-
 ```
 
 ```python

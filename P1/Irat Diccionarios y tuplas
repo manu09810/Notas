@@ -1,0 +1,92 @@
+# Irat Tuplas y Diccionarios.
+## Diccionarios
+¿Qué es un diccionario?
+Se trata de algo similar a a una lista pero permite acceder a los valores dados a través de sus claves.
+Cada clave permite enlazar un un diccionario a un valor en especifico.
+El conjunto de la asociación con la clave se hace llamar elemento.
+¿Qué elementos son caracteristicos de una diccionario y cómo funciona este?
+La fn¿uncion dict() funciona de manera similar a set() o list (), permitiendo crear un elemento de este tipo sin elementos en su interior, estas son funciones internas, no se deben usar como nombres.
+El elemento representativo del diccionario es {}
+Para agregar un elemento a diccionario lo podemos hacer a través de corchetes de esa manera asiganamos lo del corchete como la clave de lo que esta a la derecha.
+dic[“x”] = “y”
+De esta manera si utlizamos como indice x en este diccionario nos va a devolver su clave y su valor correspondiente, que es “y”
+Los diccionarios no tienen asignado un orden, el orden no importa, porque estan indexados en base a claves
+
+¿Qué funciones/operadores/metodos similares tiene a otros?
+La funcion len tambíen funciona en diccionarios, dandonos el valor de pares de claves y valores.
+El operador in funciona de una manera diferente, este te dice si el valor esta como una de las claves y no como un valor.
+Se puede usar el metodo values para esto, ya que retorna los valores de un diccionario como una lista.
+
+¿ Por qué es diferente el algoritmo que utiliza python para recorrer diccionarios con in o listas con in ?
+Cuando  se recorre un diccionario se utilza el metodo de hashmap, que permite hacerlo con una velocidad muy similar sin importar que tan grande se el diccionario, a diferencia de una lista cuya cantidad de elementos es un diferenciador,  puesto que el tiempo va ir creciendo de forma lineal a mayor cantidad de elementos.
+
+¿Qué es una implementación?
+Se trata de una forma de llevar a cabo una operación computacional, existen algunas mejores que otras.
+
+¿Qué es el metodo get?
+Se trata de un metodo que  permite obtener un valor de una clave de un diccionario y si esta clave no existe da un valor fijo según un parámetro.
+## BUCLES
+¿Qué succede al utilzar un for en diccionario?
+Lo que pasa es que este empieza a reccorer los valores de las claves
+por lo que si queremos imprimir la clave y su correspondiente valor tendremos que usar la clave como indice en el diccionario.
+¿Qué es el metodo keys?
+El metodo keys permite crear una lista a partir de todas las claves de un diciconario, es util si queremos recorrer de manera alfabetica un diccionario puesto que podemos separarlo del resto del código para luego aplicar un sort y un for.
+
+
+### Tupla
+¿Qué es una tupla?
+Se trata de secuncias de valores, muy similar a lo que es una lista pero esta es immutable, por lo tanto no se puede alterar, además funciona como clave para los diccionarios( la lista no puede) y se usa en sets().
+
+¿Cómo se escribe una tupla?
+Se trata de una secuencia de valores separados por como, que por estetica se encierran en parentesis curvo.
+¿Cómo se crea una tupla con un solo elemento ?
+Se hace a través de poner un elemento y luego una coma.
+Es Importante considerar que sin esa como Python tomara ese elemento como su respectivo tipo, ya sea entero, flotante o cadena.
+¿Se puede hacer a través de una función?
+Si, se puede a través de tuple(), que permite crear una tupla segun los argumentos, en este caso crearia una vacía.
+Y en el caso de que se inserte una secuencia en la función el resultado la convertira  a tupla.
+En el caso de la cadena, lo que hara sera separar cada caracter de forma individual, haciendo una tupla con cada caracter como elemento.
+
+¿Qué cosas puede hacer una tupla y qué no?
+No se debe usar tuple como nombre para una variable o función.
+Se puede obtener un elemento a través de la indexación, para imprimirlo por ejemplo
+Pero no permite cambiar el elemento como dejaria una lista.
+Como una cadena, la tupla no es mutable pero si se puede remplazar por otra tupla.
+
+## Comparacion de tuplas
+Los comparadoes funcionan con tuplas como tambíen lo hacen contras secuencias,  se compara primero el primer caracter, si son iguales con el segundo, hasta  que se encuentren dos diferentes y a partir de ahí python delibera si es mayor o menor en base a eso, sin importar los numeros que le sigan.
+¿Qué hace la estructura i, g for in …?
+Esta estructura, es muy util para tuplas, permite que la i sea el primer elemento de cada elemento en una lista de tuplas, mientras que g sea el segundo,
+en el ejemplo dado se utiliza para poder ir añadir únicamente el segundo elemento a otra lista.
+¿Qué hace sort y que lo puede cambiar?
+es un metodo que permite organizar una lista por su orden alfabético y si se usa el argumento reverse=True, funciona de manera inversa, recuerda que en ASCII las mayusculas son más chicas que las letras en minusculas.
+## Asignacion
+¿Qué propiedad exclusiva de Python tiene las tuplas?
+Permite crear una multiple asignacion en una sola linea, esto se logra a través
+ de escribir  variables(x,y,z…)(tuplas), signo de asignación (=) y luego una secuencia(cadenas, listas, etc), de esta manera cada variable va ir tomando el valor de cada elemento de la secuencia en el orden. La secuencia podria ser una variable inclusive.
+ ¿Cómo se logra esto?
+ Esto es posible a que python logra conseguir esto por medio de utilizar indices por detras.
+ Además debemos saber que cuando se usan tuplas de esta maenra, no se ponen los parentesis de carectersiticos (), aunque funcionaria
+ no se hace por una cuestion estetica.
+¿Qué aplicaciones tiene esto?z
+Se puede utilizar en a,b = (b,a) esto permite intercambiar los valores de las variables de forma rapida.
+Además se puede usar con un split por ejemplo, lo que permite separar y categorizar
+objeto = “casa roja”
+entidad, color = objeto.split()
+
+#Diccionarios y tuplas
+¿Qué metodos tienen los diccionarios que se relacionan con las tuplas?
+El metodo items, que devuelve los elementos del diccionario como una tupla, estos elementos luego pueden transformados a una lista por list() que permite normalizar el resultado.
+Posteriormente ya que se trata de una lista  se puede utilizar el metodo sort, que permite ordenar alfabeticamente la lista.
+## Asignación múltiple con diccionarios:
+¿Qué es un orden disperso?
+Se refiere a que no hay un orden en los valores de las clases, de orden inexistente.
+¿Qué se puede lograr a través de utilizar for, items() y la asignacion multiple de las tuplas?
+Esto permite  que se recorra el items de un diccionarios, con dos variables, clave y valor y que luego estas dos se añaden en el orden inverso a una lista anteriormente creada.
+Para posteriormente ordenar una lista de mayor a menor usando sort(reverse=True) en la lista. Asi ordenando el diccionario por valores.
+#Secuencias
+¿Por qué elegimos cada una y sus diferencias?
+La cadena es más limitada y immutable.
+Listas permiten ser mutables, pero existen caso donde es preferible usar tuplas, sentencias return, en diccionarios como clave (puesto que son mutables) y como argumento en una función.
+¿Qué funciones internas tiene python para tuplas?
+sorted y reversed, estas dos toman una secuencia como parametro y devuelven una secuencia nueva segun el elegido.

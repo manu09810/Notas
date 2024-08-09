@@ -1,0 +1,61 @@
+-Tuplas
+¿Qué caracteristicas tiene una tupla?
+Son similare a las listas
+Se ponen comas luego de cada caracter para diferenciarlo de cada tipo. (Str)(int)
+
+¿Cómo acceder a cada elemento?
+Paara acceder a los elementos, lo hacemos a través del indíce
+Se puede utilizar len igualmente para saber el “length” de la tupla.
+Se pueden usar slices al igual que las listas, funcionan de la siguiente forma [A:B] ira hasta B-1
+La tupla no permite la asignación a través [], ya quese trata de algo inmutable.
+
+¿Cómo se puede cambiar el valor de una tupla?
+La únicamente es re asignando la tupla por otro valor.
+En caso de querer replazar un elemento por otro o agregar una tupla, se hace. a través del indice.
+tupla1 = (3,) + tupla1[:]
+Se hace manera artifical, es de la unica manera de hacerlo, para hacer esto en el centro es necesario  realizar slices constantementes.
+
+¿Cómo se hace para asignar variables de manera efectiva?
+En vez realizar
+a = temp
+a = b
+b = temp
+se hace a,b = (b,a)
+
+
+Diccionanrio
+¿Cómo funciona?
+No se basa en el indice, sino que en hashmap, no existe un orden como tal en la indices, los diccionarios utilizan claves y su correspondiente valor como referencia, si insertamos clave, como indice nos devolvera valor.
+¿Qué se puede utilizar de clave?
+cadenas, tuplas y enteros.
+¿Cómo se crea un diccionario?
+dicc = [ ]
+O a través de la función dict()
+¿Cómo  se añade un elemento?
+dicc[llave] = valor
+En este caso si se trata de la misma clave, se sobrescribe, esto permite editar el diccionario.
+
+¿Cómo elmminar elementos?
+Usando del que permite como operador escribir del d["clave"], esto elimina esta clave.
+pop() que funciona de la misma manera pero devuelve el valor de lo eliminado.
+
+¿Cómo funciona el metodo keys?
+keys devuelve el valor de las claves, pero lo hace una manera dinamica, pero no es iterrable, debemos convertirlo en una lista primero con list().
+
+¿Cómo ordenar por clave alfanumerica?
+Primero se debe hacer una lista a  partir de las keys de una lista, para luego ordenar esto, luego se hace un for para recorrer esta lista, lo que permite
+ir sacando los valores y imprimiendolos, mientras que se va usar print() con el diccinrio con el indice key.
+¿Cómo ordenar por valores alfanumerica?
+Se utiliza values, que permite sacar los valores como una vista dinamica, se necesita convertir a lista primero, porque existe como lista dinamica y por si acaso es mejor cambiarlo.
+¿Cómo funciona items?
+Devuelve los elementos como una tupla, si puede cambiar a lista?
+¿Qué permite el metodo upadate?
+Permite añadir a un diccionario  otro diccionario, cuando se comparte la clave, se sobre escribe los elementos.
+
+¿Qué permite el metodo get?
+Devuelve un valor de la clave seleccionada en el argumento, sino se encuentra la clave devuelve el otro argumento.
+
+¿Cómo se construye un histograma?
+Se puede usar un diccionario, con el metodo get.
+
+

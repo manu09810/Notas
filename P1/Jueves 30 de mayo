@@ -1,0 +1,29 @@
+# Creacion de conjuntos:
+Los elementos pueden ser de cualquier tipo,
+¿Cómo se cea un set vacio?
+Color_set = set()
+color_set.add(“rojo”)
+print(color_set)
+
+¿Cómo se utiliza update para agregar varios elementos?
+color_set.update{{“azul”,”verde”}}
+print(color_set)
+{“rojo”,”azul”,”verde”}
+¿Cómo se pueden quitar elementos de un set?
+A través del metodo pop.()
+que devuelve lo quitado-
+
+¿Cómo funciona la intersección de elementos entre conjuntos?
+Se basa, en donde se cortan ambos conjuntos, es decir lo que comparten, donde se "cortan"
+
+¿Cómo funciona la union?
+se basa en la suma de los dos conjuntos, es decir que todo lo que pertenezca a A y B. La union se basa en la U
+
+¿Cómo funciona la diferencia?
+Se basa en todo menos lo que pertenece a ese elemento, es decir restando ese elemento.
+
+¿Qué  metodos para sacar los elementos de un set?
+- Elimina lo que esta entre parentesis.
+- Remove genera un error si no existe lo dado entre parentesis, elimina el elemento.
+- Discard elimina el elememnto sin dar ningun error si el elemento no existe.
+
